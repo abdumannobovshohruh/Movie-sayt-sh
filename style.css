@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+background-color: brown;
+}
+header{
+    background: gray;
+}
+.free{
+    text-align: end;
+}
+.search{
+    font-size: 20px;
+    outline: none;
+}
+.list{
+    display: none;
+}
+.menu-left{
+    color: antiquewhite;
+    width: 100%;
+    font-size: 25px;
+}
